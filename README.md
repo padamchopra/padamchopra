@@ -14,6 +14,8 @@ const me = {
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=9at8&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=9at8&show_icons=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=9at8&show_icons=true&count_private=true" />
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=9at8.9at8)
