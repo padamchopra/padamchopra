@@ -1,22 +1,9 @@
-### Hey, I'm Adi :wave:
+### Hey, I'm Padam.
 
-I'm a 4th year computer science student at the University of Waterloo. I'm currently interning at [Microsoft](https://github.com/microsoft), with the [VSCode](https://github.com/microsoft/vscode) team.
+I'm a second-year student at the University of Waterloo, pursuing a bachelor's in Computer Science. I am highly interested in Computer Vision, ML, and Mobile Application Development- both native and cross-platform via Flutter.
 
-```typescript
-const me = {
-  username:  "9at8",
-  nickname:  "Adi",
-  website:   "https://9at8.dev",
-  github:    "https://github.com/9at8",
-  linkedin:  "https://linkedin.com/in/9at8",
-  instagram: "https://instagram.com/9at8",
-  email:     "github@9at8.dev",
-}
-```
+Get in touch with me at [m.me/chopra.padam](https://m.me/chopra.padam)
 
-<img src="https://github-readme-stats.vercel.app/api?username=9at8&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=padamchopra&show_icons=true&count_private=true" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=9at8&layout=compact&hide=python" />
--->
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=9at8.9at8)
+<!-- statistics widget first seen on 9at8's profile https://github.com/9at8 -->
