@@ -1,6 +1,6 @@
-### 👋🏼 Hey, I'm Padam (🔉 p·adam)
+### 👋🏼 Hey, I'm Padam (🔉 pad·um)
 
-I'm currently in my final year as a student at the [University of Waterloo](https://uwaterloo.ca/), pursuing a Bachelor's in Computer Science 💻 
+I recently graduated from [University of Waterloo](https://uwaterloo.ca/) with a Bachelor's in Computer Science 💻 
 
 I am highly passionate about consumer software and love building mobile (Android + iOS) and web applications. I am also interested in learning more about Computer Vision, Graphics, and NLP.
 
