@@ -1,7 +1,7 @@
-### 👋🏼 Hey, I'm Padam (🔉 pad·um)
+### 👋🏼 Hey, I'm Padam
 
-I recently graduated from [University of Waterloo](https://uwaterloo.ca/) with a Bachelor's in Computer Science 💻 
+I love building consumer software. Currently building Android at [Jupiter](jup.ag). Previously worked as the founding Android engineer for [Naval](https://x.com/naval) and [Brian](https://x.com/BrianNorgard)'s startup [Airchat](https://x.com/getairchat), and other places like 1Password, theScore, etc.
 
-I am highly passionate about consumer software and love building mobile (Android + iOS) and web applications. I am also interested in learning more about Computer Vision, Graphics, and NLP.
+I graduated from the [University of Waterloo](https://uwaterloo.ca/) with a Bachelor's in Computer Science 💻 in 2023.
 
-Get in touch with me at [m.me/chopra.padam](https://m.me/chopra.padam).
+Socials: [Twitter](https://x.com/PadamChopra_) and [YouTube](https://www.youtube.com/@choprapadam)
